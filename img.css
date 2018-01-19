@@ -1,0 +1,23 @@
+[class*='col-']{
+  float: left;
+}
+.col-1-4 {
+  width: 33%;
+  Background-color: lightblue;
+}
+
+.col-5-12 {
+  width: 66%;
+ /* Background-color: cyan; */
+}
+[class*='col_']{
+  float: right;
+  padding:1px;
+  height:185px;
+  width: 300.5px;
+}
+
+.videos{
+  float: right;
+  padding:1px;
+}
